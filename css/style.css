@@ -40,8 +40,8 @@ img{
   width: 150px;
   border-right: solid 1px lightgray;
   padding-right: 20px;
-
 }
+
     /* menu */
 li, a{
   margin: 0;
@@ -69,6 +69,18 @@ nav{
   margin-bottom: 20px;
 }
 
+.trasparente{
+  background-color:rgba(160, 160, 160,0.3);
+  min-height: 430px;
+  border-radius: 7px;
+}
+
+ .trasparente-2{
+  background-color:rgba(160, 160, 160,0.5);
+  min-height: 200px;
+  border-radius: 7px;
+}
+
 .testo{
   padding-top: 270px;
   padding-left: 50px;
@@ -84,7 +96,6 @@ nav{
   font-size: 15xpx;
 }
 
-
     /* contenuto */
 
 .sub-titolo{
@@ -96,7 +107,6 @@ nav{
 
 .sub-titolo h2{
   font-size: 35px;
-  
 }
 
 .sub-titolo p{
